@@ -6,7 +6,7 @@ pprint_json.py reads json file and print it to console
 
 Example of script launch on Windows or Linux, Python 3.5 or higher:
 
-$ python pprint_json.py path_to_jsonfile
+$ python pprint_json.py path_to_json_file
 
 # Output example
 
