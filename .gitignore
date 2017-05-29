@@ -1,7 +1,6 @@
 #all directorie to ignore
-.idea/
-__*/
+**/
 
-# test and doc file
-*.vcf
+# test files
+*.json
 *.txt

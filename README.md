@@ -1,19 +1,29 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+pprint_json.py reads json file and print it to console
 
 # Quickstart
 
-[TODO]
+Example of script launch on Windows or Linux, Python 3.5 or higher:
 
-Example of script launch on Linux, Python 3.5:
+$ python pprint_json.py <path to json file>
 
-```#!bash
+# Output example
 
-$ python pprint_json.py <path to file>
-# TODO add output example
-
-```
+[
+   {
+      "gid": 47465154,
+      "members_count": 8975,
+      "name": "TOP PEOPLE MORDOR",
+      "screen_name": "toppeoplemordor"
+   },
+   {
+      "gid": 3341,
+      "members_count": 89,
+      "name": "Газировка Dr Pepper в Нижнем",
+      "screen_name": "drpepper_90nn"
+   }
+]
 
 # Project Goals
 
