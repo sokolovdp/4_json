@@ -9,7 +9,7 @@ Example of script launch on Windows or Linux, Python 3.5 or higher:
 $ python pprint_json.py path_to_json_file
 
 # Output example
-
+```
 [
    {
       "gid": 47465154,
@@ -24,7 +24,7 @@ $ python pprint_json.py path_to_json_file
       "screen_name": "drpepper_90nn"
    }
 ]
-
+```
 # Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
